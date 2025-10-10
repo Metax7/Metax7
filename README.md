@@ -39,14 +39,14 @@
 </p>
 
 ---
-
+<!-- 
 ### 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/Metax7/Metax7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
+--- -->
 
 ### 🌐 Connect
 
