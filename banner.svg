@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Metax7 — Modern full-stack developer">
+  <defs>
+    <!-- Animated gradient -->
+    <linearGradient id="g" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="#0A1940">
+        <animate attributeName="stop-color" dur="8s" repeatCount="indefinite"
+                 values="#0A1940;#1F2A5A;#3b82f6;#D3D6EF;#0A1940" />
+      </stop>
+      <stop offset="50%" stop-color="#3b82f6">
+        <animate attributeName="stop-color" dur="8s" repeatCount="indefinite"
+                 values="#3b82f6;#6fb1ff;#D3D6EF;#0A1940;#3b82f6" />
+      </stop>
+      <stop offset="100%" stop-color="#D3D6EF">
+        <animate attributeName="stop-color" dur="8s" repeatCount="indefinite"
+                 values="#D3D6EF;#93C5FD;#0A1940;#3b82f6;#D3D6EF" />
+      </stop>
+    </linearGradient>
+
+    <!-- subtle noise / grain for texture -->
+    <filter id="grain">
+      <feTurbulence baseFrequency="0.8" numOctaves="2" stitchTiles="stitch" result="turb"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feBlend in="SourceGraphic" in2="turb" mode="overlay" opacity="0.02"/>
+    </filter>
+
+    <!-- soft glow for text -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style type="text/css"><![CDATA[
+      .title { font: 700 36px/1.1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; fill: #FFFFFF; letter-spacing: -0.6px; }
+      .subtitle { font: 400 14px/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; fill: rgba(255,255,255,0.9); }
+      .chip { font: 600 11px/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; fill: #0A1940; }
+      .chip-bg { rx:10; ry:10; fill: rgba(255,255,255,0.95); opacity: 0.95; }
+      .meta { font: 500 13px/1 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; fill: rgba(255,255,255,0.92); }
+      .fade { opacity: 0.95; transition: opacity 0.2s; }
+    ]]></style>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="160" fill="url(#g)" filter="url(#grain)"/>
+
+  <!-- subtle diagonal shape for depth -->
+  <g opacity="0.08">
+    <path d="M0,120 C180,80 360,160 540,120 C720,80 900,160 1200,120 L1200,160 L0,160 Z" fill="#000" />
+  </g>
+
+  <!-- left content: title + subtitle -->
+  <g transform="translate(40,30)">
+    <text class="title" x="0" y="28" filter="url(#glow)">Metax7</text>
+
+    <text class="subtitle" x="0" y="56">Modern Full-stack Developer — React · Next.js · Tailwind · TypeScript</text>
+
+    <!-- tech chips row -->
+    <g transform="translate(0,84)">
+      <!-- chip 1 -->
+      <rect class="chip-bg" x="0" y="0" width="90" height="28"/>
+      <text class="chip" x="10" y="19">HTML · CSS</text>
+
+      <!-- chip 2 -->
+      <rect class="chip-bg" x="104" y="0" width="72" height="28"/>
+      <text class="chip" x="114" y="19" class="chip">JavaScript</text>
+
+      <!-- chip 3 -->
+      <rect class="chip-bg" x="188" y="0" width="84" height="28"/>
+      <text class="chip" x="198" y="19" class="chip">TypeScript</text>
+
+      <!-- chip 4 -->
+      <rect class="chip-bg" x="282" y="0" width="80" height="28"/>
+      <text class="chip" x="292" y="19" class="chip">React</text>
+
+      <!-- chip 5 -->
+      <rect class="chip-bg" x="374" y="0" width="84" height="28"/>
+      <text class="chip" x="384" y="19" class="chip">Next.js</text>
+
+      <!-- chip 6 -->
+      <rect class="chip-bg" x="468" y="0" width="96" height="28"/>
+      <text class="chip" x="478" y="19" class="chip">TailwindCSS</text>
+
+      <!-- chip 7 -->
+      <rect class="chip-bg" x="572" y="0" width="86" height="28"/>
+      <text class="chip" x="582" y="19" class="chip">Node.js</text>
+
+      <!-- chip 8 -->
+      <rect class="chip-bg" x="664" y="0" width="72" height="28"/>
+      <text class="chip" x="674" y="19" class="chip">Zustand</text>
+
+      <!-- chip 9 -->
+      <rect class="chip-bg" x="746" y="0" width="72" height="28"/>
+      <text class="chip" x="756" y="19" class="chip">Prisma</text>
+
+      <!-- chip 10 -->
+      <rect class="chip-bg" x="828" y="0" width="84" height="28"/>
+      <text class="chip" x="838" y="19" class="chip">PayloadCMS</text>
+
+      <!-- chip 11 -->
+      <rect class="chip-bg" x="922" y="0" width="72" height="28"/>
+      <text class="chip" x="932" y="19" class="chip">shadcn</text>
+    </g>
+  </g>
+
+  <!-- right side: small meta + accent circle -->
+  <g transform="translate(980,20)">
+    <!-- circular accent -->
+    <circle cx="80" cy="40" r="44" fill="rgba(255,255,255,0.06)"/>
+    <circle cx="80" cy="40" r="26" fill="rgba(255,255,255,0.08)"/>
+
+    <text class="meta" x="28" y="18">Open-source</text>
+    <text class="meta" x="28" y="38">Builder • Designer</text>
+
+    <!-- CTA-like pill -->
+    <rect x="12" y="66" width="136" height="28" rx="14" ry="14" fill="rgba(0,0,0,0.18)"/>
+    <text class="meta" x="24" y="86">View repositories →</text>
+  </g>
+
+  <!-- bottom subtle moving light -->
+  <rect x="-200" y="0" width="600" height="160" fill="white" opacity="0.02">
+    <animate attributeName="x" dur="10s" repeatCount="indefinite" values="-400;1200" />
+  </rect>
+</svg>
