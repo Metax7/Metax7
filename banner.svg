@@ -84,39 +84,25 @@
       <text class="chip" x="478" y="19">TailwindCSS</text>
 
       <!-- chip 7 -->
+      <rect class="chip-bg" x="922" y="0" width="72" height="28"/>
+      <text class="chip" x="932" y="19">shadcn</text>
+
+      <!-- chip 8 -->
       <rect class="chip-bg" x="572" y="0" width="86" height="28"/>
       <text class="chip" x="582" y="19">Node.js</text>
 
-      <!-- chip 8 -->
+      <!-- chip 9 -->
       <rect class="chip-bg" x="664" y="0" width="72" height="28"/>
       <text class="chip" x="674" y="19">Zustand</text>
 
-      <!-- chip 9 -->
+      <!-- chip 10 -->
       <rect class="chip-bg" x="746" y="0" width="72" height="28"/>
       <text class="chip" x="756" y="19">Prisma</text>
 
-      <!-- chip 10 -->
+      <!-- chip 11 -->
       <rect class="chip-bg" x="828" y="0" width="84" height="28"/>
       <text class="chip" x="838" y="19">PayloadCMS</text>
-
-      <!-- chip 11 -->
-      <rect class="chip-bg" x="922" y="0" width="72" height="28"/>
-      <text class="chip" x="932" y="19">shadcn</text>
     </g>
-  </g>
-
-  <!-- right side: small meta + accent circle -->
-  <g transform="translate(980,20)">
-    <!-- circular accent -->
-    <circle cx="80" cy="40" r="44" fill="rgba(255,255,255,0.06)"/>
-    <circle cx="80" cy="40" r="26" fill="rgba(255,255,255,0.08)"/>
-
-    <text class="meta" x="28" y="18">Open-source</text>
-    <text class="meta" x="28" y="38">Builder • Designer</text>
-
-    <!-- CTA-like pill -->
-    <rect x="12" y="66" width="136" height="28" rx="14" ry="14" fill="rgba(0,0,0,0.18)"/>
-    <text class="meta" x="24" y="86">View repositories →</text>
   </g>
 
   <!-- bottom subtle moving light -->
