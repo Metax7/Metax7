@@ -11,9 +11,25 @@
 
 ### 🧠 About Me
 
-- 💻 Passionate about modern full-stack development
-- 🧩 Focused on developer experience and design systems
-- 🚀 Exploring automation, open-source tools, and elegant code
+- Passionate about modern full-stack development
+- Focused on developer experience and design systems
+- Exploring automation, open-source tools, and elegant code
+
+---
+
+### ✨ Highlights
+
+- Scalable full‑stack apps with clean architecture and component systems
+- Smooth UX by default: accessibility, micro-interactions, and fast paths
+- Shipping with reliability: type-safety, tests where it matters, CI-first
+
+---
+
+### 🧭 Principles
+
+- Clarity over cleverness: readable code, explicit boundaries, strong naming
+- Design systems thinking: consistent tokens, primitives, and composition
+- Performance as a feature: measure, profile, and iterate pragmatically
 
 ---
 
@@ -40,13 +56,13 @@
 
 ---
 
-<!-- ### 🐍 Contribution Graph
+### 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/Metax7/Metax7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
---- -->
+---
 
 ### 🌐 Connect
 
