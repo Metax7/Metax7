@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
   <img src="https://img.shields.io/badge/PayloadCMS-0A0A0A?style=for-the-badge&logo=payloadcms&logoColor=white" />
 </p>
 
