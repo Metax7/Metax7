@@ -58,7 +58,7 @@
   <a href="mailto:vach.mtx@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:vach.mtx@email.com">
+  <a href="https://t.me/V_A107">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
