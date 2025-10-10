@@ -11,25 +11,9 @@
 
 ### 🧠 About Me
 
-- Passionate about modern full-stack development
-- Focused on developer experience and design systems
-- Exploring automation, open-source tools, and elegant code
-
----
-
-### ✨ Highlights
-
-- Scalable full‑stack apps with clean architecture and component systems
-- Smooth UX by default: accessibility, micro-interactions, and fast paths
-- Shipping with reliability: type-safety, tests where it matters, CI-first
-
----
-
-### 🧭 Principles
-
-- Clarity over cleverness: readable code, explicit boundaries, strong naming
-- Design systems thinking: consistent tokens, primitives, and composition
-- Performance as a feature: measure, profile, and iterate pragmatically
+- 💻 Modern full‑stack development with strong design sensibility
+- 🧩 Pragmatic DX, scalable architecture, and reusable UI systems
+- 🚀 Automation, performance, and polished UX as defaults
 
 ---
 
