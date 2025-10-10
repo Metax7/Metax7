@@ -40,13 +40,13 @@
 
 ---
 
-### 🐍 Contribution Graph
+<!-- ### 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/Metax7/Metax7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
+--- -->
 
 ### 🌐 Connect
 
@@ -54,10 +54,7 @@
   <a href="https://github.com/Metax7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:vach.mtx@email.com">
     <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-link/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>

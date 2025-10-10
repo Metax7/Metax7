@@ -65,43 +65,43 @@
 
       <!-- chip 2 -->
       <rect class="chip-bg" x="104" y="0" width="72" height="28"/>
-      <text class="chip" x="114" y="19" class="chip">JavaScript</text>
+      <text class="chip" x="114" y="19">JavaScript</text>
 
       <!-- chip 3 -->
       <rect class="chip-bg" x="188" y="0" width="84" height="28"/>
-      <text class="chip" x="198" y="19" class="chip">TypeScript</text>
+      <text class="chip" x="198" y="19">TypeScript</text>
 
       <!-- chip 4 -->
       <rect class="chip-bg" x="282" y="0" width="80" height="28"/>
-      <text class="chip" x="292" y="19" class="chip">React</text>
+      <text class="chip" x="292" y="19">React</text>
 
       <!-- chip 5 -->
       <rect class="chip-bg" x="374" y="0" width="84" height="28"/>
-      <text class="chip" x="384" y="19" class="chip">Next.js</text>
+      <text class="chip" x="384" y="19">Next.js</text>
 
       <!-- chip 6 -->
       <rect class="chip-bg" x="468" y="0" width="96" height="28"/>
-      <text class="chip" x="478" y="19" class="chip">TailwindCSS</text>
+      <text class="chip" x="478" y="19">TailwindCSS</text>
 
       <!-- chip 7 -->
       <rect class="chip-bg" x="572" y="0" width="86" height="28"/>
-      <text class="chip" x="582" y="19" class="chip">Node.js</text>
+      <text class="chip" x="582" y="19">Node.js</text>
 
       <!-- chip 8 -->
       <rect class="chip-bg" x="664" y="0" width="72" height="28"/>
-      <text class="chip" x="674" y="19" class="chip">Zustand</text>
+      <text class="chip" x="674" y="19">Zustand</text>
 
       <!-- chip 9 -->
       <rect class="chip-bg" x="746" y="0" width="72" height="28"/>
-      <text class="chip" x="756" y="19" class="chip">Prisma</text>
+      <text class="chip" x="756" y="19">Prisma</text>
 
       <!-- chip 10 -->
       <rect class="chip-bg" x="828" y="0" width="84" height="28"/>
-      <text class="chip" x="838" y="19" class="chip">PayloadCMS</text>
+      <text class="chip" x="838" y="19">PayloadCMS</text>
 
       <!-- chip 11 -->
       <rect class="chip-bg" x="922" y="0" width="72" height="28"/>
-      <text class="chip" x="932" y="19" class="chip">shadcn</text>
+      <text class="chip" x="932" y="19">shadcn</text>
     </g>
   </g>
 
