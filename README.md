@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sepia-tau-25.vercel.app/api?username=Metax7&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats-sepia-tau-25.vercel.app/api/top-langs/?username=Metax7&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-sepia-tau-25.vercel.app/api/top-langs/?username=Metax7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" />
 </p>
 
 ---
