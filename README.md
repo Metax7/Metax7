@@ -11,9 +11,9 @@
 
 ### 🧠 About Me
 
-- 💻 Modern full‑stack development with strong design sensibility
-- 🧩 Pragmatic DX, scalable architecture, and reusable UI systems
-- 🚀 Automation, performance, and polished UX as defaults
+- Modern full‑stack development with strong design sensibility
+- Pragmatic DX, scalable architecture, and reusable UI systems
+- Automation, performance, and polished UX as defaults
 
 ---
 
