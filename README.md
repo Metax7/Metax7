@@ -11,7 +11,7 @@ Full-stack JavaScript Developer focused on building scalable web applications,<b
 design systems and developer experience.
 </p>
 
-<p align="center">)
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vachagan-achoyan-4ab90031a/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/V_A107)
