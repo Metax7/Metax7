@@ -75,7 +75,7 @@ Instead of just writing code, I enjoy building products that are pleasant to mai
 
 <img height="195" src="https://github-readme-stats-sepia-tau-25.vercel.app/api?username=Metax7&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="195" src="https://github-readme-stats-sepia-tau-25.vercel.app/api/top-langs/?username=Metax7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="195" src="https://github-readme-stats-sepia-tau-25.vercel.app/api/top-langs/?username=Metax7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
 
 </p>
 
