@@ -1,64 +1,93 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Metax7/Metax7/main/banner.svg" alt="Full-stack Developer" />
+  <img src="https://raw.githubusercontent.com/Metax7/Metax7/main/banner.svg" width="100%" alt="Banner" />
 </p>
 
-<p align="center">
-  <b>Building modern web applications with clean architecture and beautiful UI.</b><br/>
-  <i>JavaScript • TypeScript • React • Node.js • Next.js • Tailwind CSS • Payload CMS</i>
+<h1>
+Hi 👋 I'm Vache
+</h1>
+
+<p>
+Full-stack JavaScript Developer focused on building scalable web applications,<br>
+design systems and developer experience.
 </p>
 
----
+<p align="center">)
 
-### 🧠 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vachagan-achoyan-4ab90031a/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/V_A107)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vach.mtx@email.com)
 
-- Modern full‑stack development with strong design sensibility
-- Pragmatic DX, scalable architecture, and reusable UI systems
-- Automation, performance, and polished UX as defaults
-
----
-
-### ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,bun,prisma,postgres,mongo,vite,vercel,git" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/PayloadCMS-0A0A0A?style=for-the-badge&logo=payloadcms&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+# 🚀 What I Build
 
-<p align="center">
-  <img src="https://github-readme-stats-sepia-tau-25.vercel.app/api?username=Metax7&show_icons=true&theme=tokyonight&hide_border=true" height="195" />
-  <img src="https://github-readme-stats-sepia-tau-25.vercel.app/api/top-langs/?username=Metax7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="195" />
+Instead of just writing code, I enjoy building products that are pleasant to maintain.
+
+✨ Modern web applications
+
+🏗 Scalable architecture
+
+🎨 Pixel-perfect interfaces
+
+⚡ High-performance websites
+
+📦 CMS-driven platforms with Payload CMS
+
+🤖 Developer tooling & automation
+
+---
+
+# 🛠 Tech Arsenal
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,bun,prisma,postgres,mongodb,go"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,vscode"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Payload_CMS-111111?style=for-the-badge&logo=payloadcms&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Storybook-111111?style=for-the-badge&logo=storybook&logoColor=FF4785" />
+  <img src="https://img.shields.io/badge/Zod-111111?style=for-the-badge&logo=zod&logoColor=3068B7" />
 </p>
 
 ---
 
-<!--
-### 🐍 Contribution Graph
+# 📊 GitHub
 
 <p align="center">
-  <img src="https://github.com/Metax7/Metax7/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+<img height="195" src="https://github-readme-stats-sepia-tau-25.vercel.app/api?username=Metax7&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="195" src="https://github-readme-stats-sepia-tau-25.vercel.app/api/top-langs/?username=Metax7&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
-
---- -->
-
-### 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vachagan-achoyan-4ab90031a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vach.mtx@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/V_A107">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+
+<img src="https://streak-stats.demolab.com?user=Metax7&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+> "Good software isn't just code that works.
+> It's code that people enjoy working with."
+
+---
