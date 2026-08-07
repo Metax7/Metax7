@@ -56,7 +56,7 @@ Instead of just writing code, I enjoy building products that are pleasant to mai
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vercel,neovim"/>
 </p>
 
 <p>
