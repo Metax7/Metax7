@@ -84,10 +84,3 @@ Instead of just writing code, I enjoy building products that are pleasant to mai
 <img src="https://streak-stats.demolab.com?user=Metax7&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-> "Good software isn't just code that works.
-> It's code that people enjoy working with."
-
----
